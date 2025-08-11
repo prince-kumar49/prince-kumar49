@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">“Full Stack Developer | DSA Enthusiast”</h3>
+<h3 align="center">A Passionate Software Enginner From India  </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-kumar49" alt="prince-kumar49" /></a> </p>
 
