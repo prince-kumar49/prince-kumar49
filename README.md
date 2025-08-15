@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">A Passionate Software Enginner From India</h3>
+<h3 align="center">A Passionate Software Engineer From India</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -49,7 +49,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-kumar49&" alt="prince-kumar49" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=prince-kumar49&theme=github" alt="prince-kumar49 activity graph" />
 </p>
-
-
